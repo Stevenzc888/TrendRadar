@@ -6,6 +6,9 @@ iphone
 三星
 samsung
 
+手机
+销量
+
 ai
 !gai
 人工智能
